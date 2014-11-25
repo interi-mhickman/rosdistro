@@ -102,7 +102,7 @@ freetype:
 gazebo:
   osx:
     homebrew:
-      packages: [gazebo]
+      packages: [gazebo4]
 gccxml:
   osx:
     homebrew:
